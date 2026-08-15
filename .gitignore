@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Generated/cache files
+.cache/
